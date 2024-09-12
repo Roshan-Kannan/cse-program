@@ -1,0 +1,9 @@
+#include<studio.h>
+int main() {
+  int a,b;
+  scanf("%d",&a);
+  scanf("%d", &b);
+  a=a+b;
+  printf("The Sum of two numbers is: %d",a);
+return 0;
+}
